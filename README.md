@@ -1,3 +1,41 @@
+# Team To Do List
+I've left all of the original content at the bottom for people to reference until they are up to speed, this will have to be deleted eventually. I've taken all of the required documentation topics and put them in "To Do" below, once we figure out who is taking care of what we can section them off accordingly. I've done this initial edit in the Main branch, but I will make sure to branch for all of my future content updates.
+
+# To Do
+
+* The role of version control in software development.
+* What is Git (including pros and cons).
+* The Git Life Cycle.
+* Git Fundamentals.
+	  * Configuring Git
+    * Initializing a Repo
+    *	Staging and Commit Files
+    *	Status, Log, and Diff
+    *	Using a Git Ignore File
+*	Undoing in Git with:
+    *	Checkout
+    *	Reset
+    *	Revert
+    *	Clean
+    *	When to use the different strategies.
+*	Creating, Using, and Merging Branches
+*	Resolving Merge Conflict
+*	Stashing
+*	Tags
+*	Remote Repositories
+    *	Adding / Configuring a GitHub Remote
+    *	Pushing and Pulling
+    *	Remote Auth with SSH Keys
+*	The How and Why of Team Git Workflow
+    *	Centralized Workflow
+    *	Feature Branch Workflow
+    *	Forking Workflow
+*	Other Interesting/Useful Git Topics 
+
+# Doing
+
+# Done
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
