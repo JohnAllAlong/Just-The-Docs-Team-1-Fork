@@ -22,16 +22,19 @@ I've left all of the original content at the bottom for people to reference unti
 *	Resolving Merge Conflict
 *	Stashing
 *	Tags
-*	Remote Repositories
-    *	Adding / Configuring a GitHub Remote
-    *	Pushing and Pulling
-    *	Remote Auth with SSH Keys
-*	The How and Why of Team Git Workflow
-    *	Centralized Workflow
-    *	Feature Branch Workflow
-    *	Forking Workflow
-*	Other Interesting/Useful Git Topics 
 
+Ken ---------------------------------------------
+*	Remote Repositories - Due October 17
+    *	Adding / Configuring a GitHub Remote - Due October 17
+    *	Pushing and Pulling - Due October 17
+    *	Remote Auth with SSH Keys - Due October 17
+*	The How and Why of Team Git Workflow - Due October 15
+    *	Centralized Workflow - Due October 15
+    *	Feature Branch Workflow - Due October 15
+    *	Forking Workflow - Due October 15
+-------------------------------------------------
+
+*	Other Interesting/Useful Git Topics 
 # Doing
 
 # Done
