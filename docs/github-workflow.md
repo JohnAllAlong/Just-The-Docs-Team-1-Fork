@@ -37,3 +37,11 @@ required.
 repo.
 6. Synchronizing Team: Others can now pull from the central repo to locally
 incorporate the latest changes.
+
+
+# Feature Branch Workflow
+All feature development or bug fixes are done in dedicated branches. It
+isolates new development from the main branch, making it easy to discard experimental changes.
+It also facilitates code review through pull requests.
+
+**Note**: This workflow is sometimes called Github Flow.
