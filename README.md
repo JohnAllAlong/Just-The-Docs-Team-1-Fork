@@ -23,7 +23,9 @@ I've left all of the original content at the bottom for people to reference unti
 *	Stashing
 *	Tags
 
-Ken ---------------------------------------------
+-------------------------------------------------
+Ken 
+
 *	Remote Repositories - Due October 17
     *	Adding / Configuring a GitHub Remote - Due October 17
     *	Pushing and Pulling - Due October 17
@@ -36,6 +38,15 @@ Ken ---------------------------------------------
 
 *	Other Interesting/Useful Git Topics 
 # Doing
+
+-------------------------------------------------
+Ken 
+
+*	The How and Why of Team Git Workflow - Started October 12
+    *	Centralized Workflow - Started October 12
+    *	Feature Branch Workflow - Started October 12
+    *	Forking Workflow - Started October 12
+-------------------------------------------------
 
 # Done
 
