@@ -30,25 +30,20 @@ Ken
     *	Adding / Configuring a GitHub Remote - Due October 17
     *	Pushing and Pulling - Due October 17
     *	Remote Auth with SSH Keys - Due October 17
-*	The How and Why of Team Git Workflow - Due October 15
-    *	Centralized Workflow - Due October 15
-    *	Feature Branch Workflow - Due October 15
-    *	Forking Workflow - Due October 15
 -------------------------------------------------
 
 *	Other Interesting/Useful Git Topics 
 # Doing
 
+# Done
 -------------------------------------------------
 Ken 
 
-*	The How and Why of Team Git Workflow - Started October 12
-    *	Centralized Workflow - Started October 12
-    *	Feature Branch Workflow - Started October 12
-    *	Forking Workflow - Started October 12
+*	The How and Why of Team Git Workflow - Started October 12, finished October 12
+    *	Centralized Workflow - Started October 12, finished October 12
+    *	Feature Branch Workflow - Started October 12, finished October 12
+    *	Forking Workflow - Started October 12, finished October 12
 -------------------------------------------------
-
-# Done
 
 # just-the-docs-template
 
