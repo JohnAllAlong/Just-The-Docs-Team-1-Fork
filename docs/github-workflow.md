@@ -44,7 +44,7 @@ All feature development or bug fixes are done in dedicated branches. It
 isolates new development from the main branch, making it easy to discard experimental changes.
 It also facilitates code review through pull requests.
 
-**Note**: *This workflow is sometimes called Github Flow.*
+**Note**: *This workflow is sometimes called GitHub Flow.*
 
 It works like the Centralized Workflow, except:
 - Branching: New features or fixes are developed locally in a short-lived branch.
@@ -57,3 +57,14 @@ service (example: GitHub).
 into the main remote branch.
 
 **Note**: *Pull requests can be sent back unmerged if rework is deemed necessary.*
+
+# Forking Workflow
+Often used for open source projects, in this workflow, each developer gets not only their
+local repository, but also a server-side copy of the project.
+- Developers push to their server-side repositories.
+- Changes are shared via pull requests from their public repository.
+- The project maintainer has the final say on what is merged into the official
+repository.
+
+
+
