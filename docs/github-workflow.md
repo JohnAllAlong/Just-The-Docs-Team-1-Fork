@@ -66,5 +66,16 @@ local repository, but also a server-side copy of the project.
 - The project maintainer has the final say on what is merged into the official
 repository.
 
+It is similar to the Feature Branch workflow, except:
+- Forking: Each team member creates a fork of the project on the git hosting
+service.
+- Cloning: Team members clone their remote fork to a local repo.
+- Adding an Upstream: Team members configure a secondary remote called
+upstream that points to the official repo.
+- Resolving Conflicts: Remote commits from upstream can be pulled into the
+local feature branch, with merge conflicts resolved as required.
+- Pushing to Remote: Local feature branches are pushed to the forked remote.
+- Requesting a Remote Merge: Pull requests are initiated to request merges from
+the remote fork to the official upstream repo.
 
 
