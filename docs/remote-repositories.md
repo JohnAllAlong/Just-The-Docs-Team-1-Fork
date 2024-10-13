@@ -24,3 +24,7 @@ It provides a **web-based interface** to interact with your repositories and add
 - **Pull**: Fetch and merge changes from a remote repository into your current branch.
 - **Clone**: Make a full copy of a repository at its current state.
 - **Fork**: Create a copy of someone else's repository in your own GitHub account.
+
+# Adding and Configuring a Repo to GitHub
+To save a local Git repository to your GitHub account, create a new repository by way 
+of the "+" button in the top right corner of the GitHub website.
