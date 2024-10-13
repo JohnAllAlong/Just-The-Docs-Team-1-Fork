@@ -55,3 +55,23 @@ When you want to **pull** the latest commits from Github:
 
 `git pull origin <branch-name>`
 
+
+
+
+
+## SSH Keys for Authentication (Optional)
+
+- Generate a public/private key pair, from the Git Bash terminal:
+
+`ssh-keygen -t ed25519 -C "your_email@example.com"`
+
+- Press `Enter` to accept the default save path, and make note of this path.
+
+**Note**: *It's good practice to secure your keys with a passphrase. Just don't forget it.*
+
+- Navigate to the save path, open the `id_ed25519.pub` file and copy-paste its
+contents here.
+
+
+- Test your from the terminal: `ssh -T git@github.com` (Type `yes` when
+prompted.)
