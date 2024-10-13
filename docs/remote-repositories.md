@@ -61,7 +61,7 @@ When you want to **pull** the latest commits from Github:
 
 ## SSH Keys for Authentication (Optional)
 
-- Generate a public/private key pair, from the Git Bash terminal:
+- Generate a *public/private* key pair, from the *Git Bash* terminal:
 
 `ssh-keygen -t ed25519 -C "your_email@example.com"`
 
