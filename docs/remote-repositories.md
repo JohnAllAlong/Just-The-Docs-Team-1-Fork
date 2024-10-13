@@ -42,3 +42,16 @@ This should be all in one line with <username> replaced by your actual username.
 You can also check if a remote has been added to a repo:
 
 `git remote -v`
+
+If you don't have a local copy of a Github repo, you can **clone** it: 
+
+`git clone git@github.com:<username>/<repo-name>.git`
+
+When you want to **push** the latest state of your repo to Github:
+
+`git push origin <branch-name>`
+
+When you want to **pull** the latest commits from Github:
+
+`git pull origin <branch-name>`
+
