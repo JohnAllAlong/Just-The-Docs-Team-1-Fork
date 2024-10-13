@@ -28,3 +28,17 @@ It provides a **web-based interface** to interact with your repositories and add
 # Adding and Configuring a Repo to GitHub
 To save a local Git repository to your GitHub account, create a new repository by way 
 of the "+" button in the top right corner of the GitHub website.
+
+### Linking Your Local Repo to GitHub
+
+Let's say you've created a new repo on GitHub called `My-Lovely-Repo` 
+and you've already initialized this project's local git repository.
+
+From the command line (within your project folder) add GitHub as a remote:
+
+`git remote add origin git@github.com:<username>/My-Lovely-Repo.git`
+
+This should be all in one line with <username> replaced by your actual username.
+You can also check if a remote has been added to a repo:
+
+`git remote -v`
