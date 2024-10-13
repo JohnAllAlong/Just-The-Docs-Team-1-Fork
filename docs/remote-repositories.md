@@ -18,3 +18,9 @@ changes to others and pull their changes to your local repository.
 Microsoft.
 
 It provides a **web-based interface** to interact with your repositories and adds social and collaboration features.
+
+### Some Remote Repo / GitHub Terminology:
+- **Push**: Send your changes to a remote repository.
+- **Pull**: Fetch and merge changes from a remote repository into your current branch.
+- **Clone**: Make a full copy of a repository at its current state.
+- **Fork**: Create a copy of someone else's repository in your own GitHub account.
