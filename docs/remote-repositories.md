@@ -31,7 +31,7 @@ changes to others and pull their changes to your local repository.
 
 ### Introduction to GitHub
 
-*GitHub* is a hosting platform for Git repositories owned by
+[GitHub] is a hosting platform for Git repositories owned by
 Microsoft.
 
 It provides a **web-based interface** to interact with your repositories and adds social and collaboration features.
@@ -72,6 +72,8 @@ When you want to **pull** the latest commits from Github:
 
 `git pull origin <branch-name>`
 
+For more Git commands, you may reference this [cheat sheet] as a guideline.
+
 
 
 
@@ -92,3 +94,13 @@ contents here.
 
 - Test your from the terminal: `ssh -T git@github.com` (Type `yes` when
 prompted.)
+
+For more information about SSH keys, click [here].
+
+----
+
+
+
+[cheat sheet]: https://education.github.com/git-cheat-sheet-education.pdf
+[GitHub]: https://github.com/
+[here]: https://www.sectigo.com/resource-library/what-is-an-ssh-key
