@@ -35,7 +35,7 @@ Git system to achieve effective team collaboration.
 
 # 1. Centralized Workflow
 
-All developers work directly on a single branch, often main or master .
+All developers work directly on a single branch, often main or master.
 Simple and similar to Subversion-style workflows.
 Not as powerful or flexible as other workflows.
 Suitable for small teams and projects.
@@ -94,5 +94,14 @@ local feature branch, with merge conflicts resolved as required.
 - Pushing to Remote: Local feature branches are pushed to the forked remote.
 - Requesting a Remote Merge: Pull requests are initiated to request merges from
 the remote fork to the official upstream repo.
+
+There are more types of git workflows, such as the [pull request workflow], which shares the same goal of
+having an effective team collaboration.
+For more information about team git workflows, click [here].
+
+----------
+
+[here]: https://www.atlassian.com/git/tutorials/comparing-workflows
+[pull request workflow]: https://medium.com/@urna.hybesis/pull-request-workflow-with-git-6-steps-guide-3858e30b5fa4
 
 
