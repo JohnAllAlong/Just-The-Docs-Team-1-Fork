@@ -9,7 +9,8 @@ nav_order: 4
 {: .no_toc }
 
 On this page, you will learn about remote repositories and how you can use them for your projects.
-You will also learn how to use GitHub commands, as well as using SSH keys for authentication.
+You will also learn how to use GitHub commands for your remote repo, as well as using SSH keys 
+for authentication.
 
 
 ## Table of Contents
