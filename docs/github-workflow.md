@@ -25,7 +25,8 @@ the centralized workflow, feature branch, and the forking workflow.
 **Git workflows** are *methods* or *procedures* that dictate how developers interact with the
 Git system to achieve effective team collaboration.
 
-### Some of the popular workflows used by teams are:
+### Some of the Most Popular Git Workflows
+
 1. Centralized Workflow
 2. Feature Branch Workflow
 3. Forking Workflow
@@ -42,7 +43,7 @@ Merging can be problematic.
 
 
 
-### How a Centralized Workflow Operates:
+### How a Centralized Workflow Operates
 1. Initialization: One team member creates the repository with an online remote.
 2. Cloning: Each team member creates a local copy by "cloning" the remote.
 3. Working Locally: Developers work on the project, committing to their local repo.
@@ -62,7 +63,7 @@ It also facilitates code review through pull requests.
 
 **Note**: *This workflow is sometimes called GitHub Flow.*
 
-### It works like the Centralized Workflow, except:
+### The Distinct Properties of a Feature Branch Workflow
 - Branching: New features or fixes are developed locally in a short-lived branch.
 - Resolving Conflicts: Remote commits by other developers can be pulled into the
 local feature branch, with merge conflicts resolved as required.
@@ -82,8 +83,8 @@ local repository, but also a server-side copy of the project.
 - The project maintainer has the final say on what is merged into the official
 repository.
 
-### It is similar to the Feature Branch workflow, except:
-- Forking: Each team member creates a fork of the project on the git hosting
+### The Forking Workflow Features
+- Forking: Each team member creates a fork of the project on the git hosting	
 service.
 - Cloning: Team members clone their remote fork to a local repo.
 - Adding an Upstream: Team members configure a secondary remote called
