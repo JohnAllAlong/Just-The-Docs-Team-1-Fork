@@ -4,7 +4,23 @@ title: Team Git Workflow
 nav_order: 3
 ---
 
+
+<!-- prettier-ignore-start -->
 # Team Git Workflow
+{: .no_toc }
+
+By the end of this page, you will be able to differentiate the different team git workflows, such as 
+the centralized workflow, feature branch, and the forking workflow.
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+# What Is a Git Workflow?
 
 **Git workflows** are *methods* or *procedures* that dictate how developers interact with the
 Git system to achieve effective team collaboration.
