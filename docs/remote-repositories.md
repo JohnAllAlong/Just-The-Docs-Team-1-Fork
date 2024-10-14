@@ -4,7 +4,23 @@ title: Remote Repositories
 nav_order: 4
 ---
 
+<!-- prettier-ignore-start -->
 # Remote Repositories
+{: .no_toc }
+
+On this page, you will learn about remote repositories and how you can use them for your projects.
+You will also learn how to use GitHub commands, as well as using SSH keys for authentication.
+
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+# What Is a Remote Repository?
 
 A *remote repository* is a version of your project that is hosted on a remote server.
 
