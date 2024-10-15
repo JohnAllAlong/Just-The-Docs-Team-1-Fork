@@ -3,21 +3,28 @@ I've left all of the original content at the bottom for people to reference unti
 
 # To Do
 
+## John
 * The role of version control in software development.
 * What is Git (including pros and cons).
 * The Git Life Cycle.
+
+## Person 2
 * Git Fundamentals.
 	  * Configuring Git
     * Initializing a Repo
     *	Staging and Commit Files
     *	Status, Log, and Diff
     *	Using a Git Ignore File
+
+## Person 3
 *	Undoing in Git with:
     *	Checkout
     *	Reset
     *	Revert
     *	Clean
     *	When to use the different strategies.
+
+## Person 4
 *	Creating, Using, and Merging Branches
 *	Resolving Merge Conflict
 *	Stashing
