@@ -55,3 +55,50 @@ Use git revert to run a specific commit in reverse.
 Typically used to undo a commit that has been shared with others.
 The public undo - it says, 'I made a mistake, but I want to keep a record of it.'
 
+# Reverting Multiple Commits
+The git revert command reverts a single commit by default.
+We can run it mutiple times to revert multiple commits:
+git revert D
+git revert C
+Or we can revert a sequence of commits: (Each commit is reverted separately!)
+git revert C^..D
+If you only want a single revert commit: (The -n stands for "no commit".)
+git revert -n C^..D
+git commit -m "Revert commits C through D inclusively."
+
+# Clean
+git clean [-d] [-f] [-i] [-n] [-q] [-e <pattern>] [-x | -X] [--] [<pathspec>…​]
+
+The clean command removes untracked files from the working tree
+It does this by recursively removing files that are not under version control, starting from the current directory.
+This behaviour can be altered with the following commands:
+
+-d
+Normally, when no <pathspec> is specified, git clean will not recurse into untracked directories to avoid removing too much. Specify -d to have it recurse into such directories as well.
+
+-f
+--force
+If the Git configuration variable clean.requireForce is not set to false, git clean will refuse to delete files or directories unless given -f. 
+Git will refuse to modify untracked nested git repositories (directories with a .git subdirectory) unless a second -f is given.
+
+-i
+--interactive
+Show what would be done and clean files interactively.
+
+-n
+--dry-run
+Don’t actually remove anything, just show what would be done.
+
+-q
+--quiet
+Be quiet, only report errors, but not the files that are successfully removed.
+
+-e <pattern>
+--exclude=<pattern>
+Use the given exclude pattern in addition to the standard ignore rules
+
+-x
+Don’t use the standard ignore rules (see gitignore[5]), but still use the ignore rules given with -e options from the command line. This allows removing all untracked files, including build products.
+
+-X
+Remove only files ignored by Git. This may be useful to rebuild everything from scratch, but keep manually created files.
