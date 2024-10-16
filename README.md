@@ -27,11 +27,11 @@ I've left all of the original content at the bottom for people to reference unti
 
 ## Cate
 * Git Fundamentals.
-	  * Configuring Git
-    * Initializing a Repo
-    *	Staging and Commit Files
-    *	Status, Log, and Diff
-    *	Using a Git Ignore File
+	* Configuring Git - Started October 16, Due October 17
+    * Initializing a Repo - Started October 16, Due October 17
+    *	Staging and Commit Files - Started October 16, Due October 17
+    *	Status, Log, and Diff - Started October 16, Due October 17
+    *	Using a Git Ignore File - Started October 16, Due October 17
 
 # Done
 -------------------------------------------------
