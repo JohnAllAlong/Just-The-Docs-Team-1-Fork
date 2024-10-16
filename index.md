@@ -10,6 +10,13 @@ Start by following the instructions in the [README] and then [browse the Just th
 
 Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
 
+### Ken Jimeno
+
+I am a first-year game development student at Red River College Polytechnic, where I learn about the exciting world of programming. 
+I love collaborating and learning from my classmates and following instructors who have many years of industry experience. 
+Outside of school, I enjoy camping, snowboarding, and of course, playing video games!
+
+
 ----
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
