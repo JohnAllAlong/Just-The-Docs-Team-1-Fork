@@ -97,3 +97,6 @@ Don’t use the standard ignore rules, but still use the ignore rules given with
 
 -X
 Remove only files ignored by Git. This may be useful to rebuild everything from scratch, but keep manually created files.
+
+# When To Use Clean
+Whenever there are unnecessary/untracked files you wish to remove from the repo
