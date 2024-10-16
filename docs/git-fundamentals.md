@@ -67,7 +67,38 @@ Lastly, if we want to add all files of a certain type, we can do that using a **
 `git add docs/*.txt`
 *This will add all text files in the docs folder.*
 
+### Committing Staged Files
+
+We commit our staged changes with a commit message:
+
+`git commit -m "Your explanation of the changes goes here."`
+
+For complex changes, we can include a short title, followed by a long explaination:
+`git commit -m "Title" -m "Long description goes here .........."`
+
 # Log and Diff
+
+We can review all previous commits with:
+
+`git log`
+
+Each entry in the log shows:
+- The commit hash.
+- Who made the commit.
+- When it was made.
+- The commit message.
+
+We can compare the differences between the current files and the last commit with:
+
+`git diff`
+
+We can compare the differences with specific files too:
+
+`git diff information.txt`
+
+We can also compare specific folders:
+
+`git diff ./docs`
 
 # Using a Git Ignore File
 
