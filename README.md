@@ -24,13 +24,14 @@ I've left all of the original content at the bottom for people to reference unti
     *	Clean
     *	When to use the different strategies.
 
-## Person 4
+# Doing
+
+### Marlena
 *	Creating, Using, and Merging Branches
 *	Resolving Merge Conflict
 *	Stashing
 *	Tags
-*	Other Interesting/Useful Git Topics 
-# Doing
+*	Other Interesting/Useful Git Topics
 
 # Done
 -------------------------------------------------
