@@ -16,14 +16,6 @@ I've left all of the original content at the bottom for people to reference unti
     *	Status, Log, and Diff
     *	Using a Git Ignore File
 
-## Person 3
-*	Undoing in Git with:
-    *	Checkout
-    *	Reset
-    *	Revert
-    *	Clean
-    *	When to use the different strategies.
-
 # Doing
 
 ### Marlena
@@ -32,6 +24,14 @@ I've left all of the original content at the bottom for people to reference unti
 *	Stashing
 *	Tags
 *	Other Interesting/Useful Git Topics
+
+## Conor
+*	Undoing in Git with:
+    *	Checkout
+    *	Reset
+    *	Revert
+    *	Clean
+    *	When to use the different strategies.
 
 # Done
 -------------------------------------------------
