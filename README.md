@@ -11,10 +11,10 @@ I've left all of the original content at the bottom for people to reference unti
 # Doing
 
 ### Marlena
-*	Creating, Using, and Merging Branches
-*	Resolving Merge Conflict
-*	Stashing
-*	Tags
+*	Creating, Using, and Merging Branches - Started October 16, Due October 17
+*	Resolving Merge Conflict - Started October 16, Due October 17
+*	Stashing - Started October 16, Due October 17
+*	Tags - Started October 16, Due October 17
 *	Other Interesting/Useful Git Topics
 
 ## Conor
