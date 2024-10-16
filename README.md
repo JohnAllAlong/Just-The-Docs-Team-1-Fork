@@ -8,14 +8,6 @@ I've left all of the original content at the bottom for people to reference unti
 * What is Git (including pros and cons).
 * The Git Life Cycle.
 
-## Person 2
-* Git Fundamentals.
-	  * Configuring Git
-    * Initializing a Repo
-    *	Staging and Commit Files
-    *	Status, Log, and Diff
-    *	Using a Git Ignore File
-
 # Doing
 
 ### Marlena
@@ -32,6 +24,14 @@ I've left all of the original content at the bottom for people to reference unti
     *	Revert
     *	Clean
     *	When to use the different strategies.
+
+## Cate
+* Git Fundamentals.
+	  * Configuring Git
+    * Initializing a Repo
+    *	Staging and Commit Files
+    *	Status, Log, and Diff
+    *	Using a Git Ignore File
 
 # Done
 -------------------------------------------------
