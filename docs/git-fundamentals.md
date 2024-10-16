@@ -8,8 +8,7 @@ nav_order: 1
 # Git Fundamentals
 {: .no_toc }
 
-
-
+By the end of this page, you will be able to set up git to associate your work with your name and email address, create new repositories and add files to them. You will also be able to see the history of your project and compare it to its current state.
 
 ## Table of Contents
 {: .no_toc }
@@ -46,6 +45,27 @@ The status command will display the current status of the repository. This is he
 `git status`
 
 # Staging and Committing Files
+
+As we make changes to our code we commit the changes to our git repo.
+Before we can commit we must add new or changed files to a staging area.
+
+Let's assume we have a file named `information.txt`.
+We can **stage** it with the following command:
+
+`git add information.txt`
+
+We can also add all changed files with:
+
+`git add .`
+
+The add command also accepts sub-folders:
+
+`git add docs/information.txt`
+
+Lastly, if we want to add all files of a certain type, we can do that using a **wildcard** character.
+
+`git add docs/*.txt`
+*This will add all text files in the docs folder.*
 
 # Log and Diff
 
