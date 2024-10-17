@@ -1,3 +1,52 @@
+# Team To Do List
+I've left all of the original content at the bottom for people to reference until they are up to speed, this will have to be deleted eventually. I've taken all of the required documentation topics and put them in "To Do" below, once we figure out who is taking care of what we can section them off accordingly. I've done this initial edit in the Main branch, but I will make sure to branch for all of my future content updates.
+
+# To Do
+
+# Doing
+
+### Marlena
+*	Creating, Using, and Merging Branches - Started October 16, Due October 17
+*	Resolving Merge Conflict - Started October 16, Due October 17
+*	Stashing - Started October 16, Due October 17
+*	Tags - Started October 16, Due October 17
+*	Other Interesting/Useful Git Topics
+
+## Conor
+*	Undoing in Git with:
+    *	Checkout
+    *	Reset
+    *	Revert
+    *	Clean
+    *	When to use the different strategies.
+
+## Cate
+* Git Fundamentals.
+	* Configuring Git - Started October 16, Due October 17
+    * Initializing a Repo - Started October 16, Due October 17
+    *	Staging and Commit Files - Started October 16, Due October 17
+    *	Status, Log, and Diff - Started October 16, Due October 17
+    *	Using a Git Ignore File - Started October 16, Due October 17
+
+# Done
+-------------------------------------------------
+Ken 
+
+*	Remote Repositories - Started October 13, finished October 14, due October 17
+    *	Adding / Configuring a GitHub Remote - Started October 13, finished October 14, due October 17
+    *	Pushing and Pulling - Started October 13, finished October 14, due October 17
+    *	Remote Auth with SSH Keys - Started October 13, finished October 14, due October 17
+*	The How and Why of Team Git Workflow - Started October 12, finished October 14, due October 15
+    *	Centralized Workflow - Started October 12, finished October 14, due October 15
+    *	Feature Branch Workflow - Started October 12, finished October 14, due October 15
+    *	Forking Workflow - Started October 12, finished October 14, due October 15
+-------------------------------------------------
+John
+* The Git Life Cycle. - Started October 17, Finished October 17
+* The role of version control in software development. - Finished October 17, Due October 17
+* What is Git (including pros and cons). - Started October 17, Finished October 17
+-------------------------------------------------
+
 # just-the-docs-template
 
 This is a *bare-minimum* template to create a documentation website that:
