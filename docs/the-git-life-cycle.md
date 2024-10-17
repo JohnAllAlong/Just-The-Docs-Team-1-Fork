@@ -1,4 +1,14 @@
+---
+layout: default
+title: Team Git Workflow
+nav_order: 2
+---
+
+
+<!-- prettier-ignore-start -->
+
 # The Git Life Cycle
+{: .no_toc }
 This page serves as a high-level overview of the git life cycle. 
 For a detailed step-by step instruction of how to direct files within your project, refer to the Git Fundamentals page.
 ![](https://www.imghippo.com/i/97KMo1729200494.png)
