@@ -75,16 +75,13 @@ Ken is a programmer who specializes in C# within the Unity game engine. He enjoy
 Conor is a programmer with experience in C#, specifically in the Unity game engine. 
 He loves Warhammer 40k lore and playing video games.
 
-
 ### John
 
 John is a lifelong gamer and recent programmer who is working hard to bring his own ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
 
-
 ### Cate
 
 Cate is a game developer with the majority of her experience being in the Unity game engine. She's gotten really into [UFO 50].
-
 
 ----
 
