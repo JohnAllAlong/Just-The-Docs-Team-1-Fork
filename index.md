@@ -14,6 +14,9 @@ Remember that you will be using [Markdown Syntax] rather than raw HTML to format
 
 Ken is a programmer who specializes in C# within the Unity game engine. He enjoys camping, snowboarding, and, of course, playing video games!
 
+### Cate
+
+Cate is a game developer with the majority of her experience being in the Unity game engine. She's gotten really into [UFO 50].
 
 ----
 
@@ -22,3 +25,4 @@ Ken is a programmer who specializes in C# within the Unity game engine. He enjoy
 [README]: [https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md](https://github.com/StungEye-RRC/Just-The-Docs-Template#readme)
 [Jekyll]: https://jekyllrb.com
 [Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[UFO 50]: https://50games.fun/
