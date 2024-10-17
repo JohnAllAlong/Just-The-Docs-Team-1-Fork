@@ -10,6 +10,10 @@ Start by following the instructions in the [README] and then [browse the Just th
 
 Remember that you will be using [Markdown Syntax] rather than raw HTML to format the content of your pages.
 
+### Ken
+
+Ken is a programmer who specializes in C# within the Unity game engine. He enjoys camping, snowboarding, and, of course, playing video games!
+
 ### Cate
 
 Cate is a game developer with the majority of her experience being in the Unity game engine. She's gotten really into [UFO 50].

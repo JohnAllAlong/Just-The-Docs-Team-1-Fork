@@ -4,19 +4,23 @@ I've left all of the original content at the bottom for people to reference unti
 # To Do
 
 ## John
-* The role of version control in software development.
-* What is Git (including pros and cons).
-* The Git Life Cycle.
+* What is Git (including pros and cons). - Started October 17, Due October 17
+* The Git Life Cycle. - Started October 17, Due October 17
 
-## Person 2
-* Git Fundamentals.
-	  * Configuring Git
-    * Initializing a Repo
-    *	Staging and Commit Files
-    *	Status, Log, and Diff
-    *	Using a Git Ignore File
 
-## Person 3
+# Doing
+
+## John
+* The role of version control in software development. - Started October 17, Due October 17
+
+### Marlena
+*	Creating, Using, and Merging Branches - Started October 16, Due October 17
+*	Resolving Merge Conflict - Started October 16, Due October 17
+*	Stashing - Started October 16, Due October 17
+*	Tags - Started October 16, Due October 17
+*	Other Interesting/Useful Git Topics
+
+## Conor
 *	Undoing in Git with:
     *	Checkout
     *	Reset
@@ -24,14 +28,13 @@ I've left all of the original content at the bottom for people to reference unti
     *	Clean
     *	When to use the different strategies.
 
-# Doing
-
-### Marlena
-*	Creating, Using, and Merging Branches
-*	Resolving Merge Conflict
-*	Stashing
-*	Tags
-*	Other Interesting/Useful Git Topics
+## Cate
+* Git Fundamentals.
+	* Configuring Git - Started October 16, Due October 17
+    * Initializing a Repo - Started October 16, Due October 17
+    *	Staging and Commit Files - Started October 16, Due October 17
+    *	Status, Log, and Diff - Started October 16, Due October 17
+    *	Using a Git Ignore File - Started October 16, Due October 17
 
 # Done
 -------------------------------------------------
