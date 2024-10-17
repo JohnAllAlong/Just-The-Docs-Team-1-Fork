@@ -5,12 +5,13 @@ I've left all of the original content at the bottom for people to reference unti
 
 ## John
 
-* The Git Life Cycle. - Started October 17, Due October 17
+
 
 
 # Doing
 
 ## John
+* The Git Life Cycle. - Started October 17, Due October 17
 * The role of version control in software development. - Started October 17, Due October 17
 * What is Git (including pros and cons). - Started October 17, Due October 17
 
