@@ -4,6 +4,24 @@ title: Branches
 nav_order: 4
 ---
 
+<!-- prettier-ignore-start -->
+# Remote Repositories
+{: .no_toc }
+
+On this page, you will learn about remote repositories and how you can use them for your projects.
+You will also learn how to use GitHub commands for your remote repo, as well as using SSH keys 
+for authentication.
+
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+
 # What is a Branch?
 In Git, branches are like alternate timelines in a sci-fi movie.
 
