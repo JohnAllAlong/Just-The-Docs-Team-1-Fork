@@ -4,7 +4,7 @@ I've left all of the original content at the bottom for people to reference unti
 # To Do
 
 ## John
-* What is Git (including pros and cons). - Started October 17, Due October 17
+
 * The Git Life Cycle. - Started October 17, Due October 17
 
 
@@ -12,6 +12,7 @@ I've left all of the original content at the bottom for people to reference unti
 
 ## John
 * The role of version control in software development. - Started October 17, Due October 17
+* What is Git (including pros and cons). - Started October 17, Due October 17
 
 ### Marlena
 *	Creating, Using, and Merging Branches - Started October 16, Due October 17
