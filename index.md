@@ -70,9 +70,15 @@ software development.
 
 Ken is a programmer who specializes in C# within the Unity game engine. He enjoys camping, snowboarding, and, of course, playing video games!
 
+
 ### John
 
 John is a lifelong gamer and recent programmer who is working hard to bring his owm ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
+
+
+### Cate
+
+Cate is a game developer with the majority of her experience being in the Unity game engine. She's gotten really into [UFO 50].
 
 
 ----
@@ -82,3 +88,4 @@ John is a lifelong gamer and recent programmer who is working hard to bring his 
 [README]: [https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md](https://github.com/StungEye-RRC/Just-The-Docs-Template#readme)
 [Jekyll]: https://jekyllrb.com
 [Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[UFO 50]: https://50games.fun/

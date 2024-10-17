@@ -3,16 +3,7 @@ I've left all of the original content at the bottom for people to reference unti
 
 # To Do
 
-## John
-
-* The Git Life Cycle. - Started October 17, Due October 17
-
-
 # Doing
-
-## John
-* The role of version control in software development. - Started October 17, Due October 17
-* What is Git (including pros and cons). - Started October 17, Due October 17
 
 ### Marlena
 *	Creating, Using, and Merging Branches - Started October 16, Due October 17
@@ -49,6 +40,11 @@ Ken
     *	Centralized Workflow - Started October 12, finished October 14, due October 15
     *	Feature Branch Workflow - Started October 12, finished October 14, due October 15
     *	Forking Workflow - Started October 12, finished October 14, due October 15
+-------------------------------------------------
+John
+* The Git Life Cycle. - Started October 17, Finished October 17
+* The role of version control in software development. - Finished October 17, Due October 17
+* What is Git (including pros and cons). - Started October 17, Finished October 17
 -------------------------------------------------
 
 # just-the-docs-template
