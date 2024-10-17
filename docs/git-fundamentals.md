@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Git Fundamentals
-nav_order: 1
+nav_order: 3
 ---
 
 <!-- prettier-ignore-start -->
