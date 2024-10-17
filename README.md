@@ -5,13 +5,6 @@ I've left all of the original content at the bottom for people to reference unti
 
 # Doing
 
-### Marlena
-*	Creating, Using, and Merging Branches - Started October 16, Due October 17
-*	Resolving Merge Conflict - Started October 16, Due October 17
-*	Stashing - Started October 16, Due October 17
-*	Tags - Started October 16, Due October 17
-*	Other Interesting/Useful Git Topics
-
 ## Conor
 *	Undoing in Git with:
     *	Checkout
@@ -45,6 +38,14 @@ John
 * The Git Life Cycle. - Started October 17, Finished October 17
 * The role of version control in software development. - Finished October 17, Due October 17
 * What is Git (including pros and cons). - Started October 17, Finished October 17
+-------------------------------------------------
+Marlena
+
+*	Creating, Using, and Merging Branches - Started October 16, Due October 17
+*	Resolving Merge Conflict - Started October 16, Due October 17
+*	Stashing - Started October 16, Due October 17
+*	Tags - Started October 16, Due October 17
+*	Other Interesting/Useful Git Topics
 -------------------------------------------------
 
 # just-the-docs-template
