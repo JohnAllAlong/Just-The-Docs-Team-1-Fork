@@ -5,21 +5,8 @@ I've left all of the original content at the bottom for people to reference unti
 
 # Doing
 
-## Conor
-*	Undoing in Git with:
-    *	Checkout
-    *	Reset
-    *	Revert
-    *	Clean
-    *	When to use the different strategies.
 
-## Cate
-* Git Fundamentals.
-	* Configuring Git - Started October 16, Due October 17
-    * Initializing a Repo - Started October 16, Due October 17
-    *	Staging and Commit Files - Started October 16, Due October 17
-    *	Status, Log, and Diff - Started October 16, Due October 17
-    *	Using a Git Ignore File - Started October 16, Due October 17
+
 
 # Done
 -------------------------------------------------
@@ -46,6 +33,16 @@ Marlena
 *	Stashing - Started October 16, Due October 17
 *	Tags - Started October 16, Due October 17
 *	Other Interesting/Useful Git Topics
+Conor
+*	Undoing with Git. -Started October 16, Finished October 17
+-------------------------------------------------
+Cate
+* Git Fundamentals.
+	* Configuring Git - Started October 16, Due October 17, Finished October 17
+    * Initializing a Repo - Started October 16, Due October 17, Finished October 17
+    *	Staging and Commit Files - Started October 16, Due October 17, Finished October 17
+    *	Status, Log, and Diff - Started October 16, Due October 17, Finished October 17
+    *	Using a Git Ignore File - Started October 16, Due October 17, Finished October 17
 -------------------------------------------------
 
 # just-the-docs-template
