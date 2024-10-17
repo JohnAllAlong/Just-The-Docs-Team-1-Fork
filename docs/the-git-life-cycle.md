@@ -11,7 +11,8 @@ nav_order: 2
 {: .no_toc }
 This page serves as a high-level overview of the git life cycle. 
 For a detailed step-by step instruction of how to direct files within your project, refer to the Git Fundamentals page.
-![image of life cycle](https://www.imghippo.com/i/97KMo1729200494.png)
+
+![image of life cycle](https://git-scm.com/book/en/v2/images/lifecycle.png)
 
 ([Image Source](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository))
 
