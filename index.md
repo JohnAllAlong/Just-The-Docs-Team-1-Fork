@@ -73,7 +73,7 @@ Ken is a programmer who specializes in C# within the Unity game engine. He enjoy
 
 ### John
 
-John is a lifelong gamer and recent programmer who is working hard to bring his owm ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
+John is a lifelong gamer and recent programmer who is working hard to bring his own ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
 
 
 ### Cate
