@@ -4,20 +4,6 @@ title: Branches
 nav_order: 4
 ---
 
-<!-- prettier-ignore-start -->
-# Remote Repositories
-{: .no_toc }
-
-This page will cover how to create, use, and merge branches.
-
-## Table of Contents
-{: .no_toc }
-
-1. TOC
-{:toc}
-
-<!-- prettier-ignore-end -->
-
 # What is a Branch?
 In Git, branches are like alternate timelines in a sci-fi movie.
 
