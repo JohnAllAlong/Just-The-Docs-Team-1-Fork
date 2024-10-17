@@ -70,6 +70,11 @@ software development.
 
 Ken is a programmer who specializes in C# within the Unity game engine. He enjoys camping, snowboarding, and, of course, playing video games!
 
+### Conor
+
+Conor is a programmer with experience in C#, specifically in the Unity game engine. 
+He loves Warhammer 40k lore and playing video games.
+
 
 ### John
 
