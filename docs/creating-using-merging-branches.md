@@ -1,6 +1,6 @@
 ---
 layout: default
-title: REMEMBER TO CHANGE THIS LATER
+title: Branches
 nav_order: 4
 ---
 
@@ -8,7 +8,7 @@ nav_order: 4
 # Remote Repositories
 {: .no_toc }
 
-This page will cover an abundance of git topics such as branches, resolving merge conflicts, stashing, tags and more. After covering all of the material you will have a better understanding on how to properly use them to the best of your ability.
+This page will cover how to create, use, and merge branches.
 
 ## Table of Contents
 {: .no_toc }
@@ -19,55 +19,40 @@ This page will cover an abundance of git topics such as branches, resolving merg
 <!-- prettier-ignore-end -->
 
 # What is a Branch?
+In Git, branches are like alternate timelines in a sci-fi movie.
 
+They allow you to work on different features or fixes without affecting the main project
+timeline until you choose to merge the timelines back together. 
 
 # Creating Branches
-
+Creating a new branch:
+`git branch <branch-name>`
+Switching to a branch:
+`git checkout <branch-name>`
+Create a switch in a single command:
+`git checkout -b <branch-name>`
 
 # Merging Branches
+Branching allows for isolated development, and merging brings those developments
+back into the main timeline.
+Let's say we've been working and committing to an experimental branch and we
+want to merge those commits back into main:
+`git checkout main`
+`git merge experimental`
 
+### Merge Conflicts
+Merge conflicts occur when Git can't automatically merge two branches.
+When a merge conflict happens, Git will alert you in the terminal and mark the areas of
+conflict in the file.
 
-# Resolving Merge Conflicts
-If Git can't automatically merge two branches a merge conflict will occur. It will notify you in the terminal and mark the areas of conflict in the file.
+### Git's Markup of Conflicted Files
+Git uses special markers to indicate the start and end of the conflicted area:
+- `<<<<<<<` HEAD shows the start of the changes in the current branch.
+- `=======` separator between the changes in the current and the other branch.
+- `>>>>>>>` branch-name shows the end of the changes in the other branch.
 
-# Resolving Merge Conflicts
-
-
-# Stashing
-
-### Introduction to Stashing
-Stashing is a way to temporarily save your modified changes in a project. You can choose to stash your uncommited work if:
-- You want to switch branches.
-- You have changes to pull.
-
-You can have multiple stashes and they will be stored in a Last In, First Out fashion.
-
-This command will stash your changes and give you a clean work directory:
-`git stash`
-Note: The storage is only temporary so do not forget about your stashes!
-
-To re-apply the modifications and remove them from the stash.
-`git stash pop`
-To re-apply the modifications and keep them in the stash.
-`git stash apply`
-
-### More Stash Commands
-These commands may be useful to know.
-
-To see a log of all your current stashes:
-`git stash list`
-If you want to remove and delete the modifications of your most recent stash:
-`git stash drop`
-?
-`git stash branch <branchname>`
-Remove all your stashes:
-`git stash clear`
-?
-`git stash pop 'stash@{n}'`
-
-# Tags
-
-
-
-
-# Other Interesting/Useful Git Topics
+### Resolving Merge Conflicts
+**To resolve a merge conflict:**
+1. Edit the file to fix the conflicting changes. Be sure to remove the conflict markers.
+2. Add the file to the staging area with git add .
+3. Commit the fix with `git commit`.
