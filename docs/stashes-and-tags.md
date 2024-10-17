@@ -1,3 +1,25 @@
+---
+layout: default
+title: Stashes and Tags
+nav_order: 4
+---
+
+<!-- prettier-ignore-start -->
+# Remote Repositories
+{: .no_toc }
+
+On this page you'll learn about how to use stashes and tags
+
+
+## Table of Contents
+{: .no_toc }
+
+1. TOC
+{:toc}
+
+<!-- prettier-ignore-end -->
+
+
 # Stashing
 Git stash allows you to put aside changes that
 you don't want to commit immediately.
