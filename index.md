@@ -19,6 +19,9 @@ Ken is a programmer who specializes in C# within the Unity game engine. He enjoy
 Conor is a programmer with experience in C#, specifically in the Unity game engine. 
 He loves Warhammer 40k lore and playing video games.
 
+### Cate
+
+Cate is a game developer with the majority of her experience being in the Unity game engine. She's gotten really into [UFO 50].
 
 ----
 
@@ -27,3 +30,4 @@ He loves Warhammer 40k lore and playing video games.
 [README]: [https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md](https://github.com/StungEye-RRC/Just-The-Docs-Template#readme)
 [Jekyll]: https://jekyllrb.com
 [Markdown Syntax]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[UFO 50]: https://50games.fun/
