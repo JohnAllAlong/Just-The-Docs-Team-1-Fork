@@ -14,6 +14,10 @@ Remember that you will be using [Markdown Syntax] rather than raw HTML to format
 
 Ken is a programmer who specializes in C# within the Unity game engine. He enjoys camping, snowboarding, and, of course, playing video games!
 
+### John
+
+John is a lifelong gamer and recent programmer who is working hard to bring his owm ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
+
 
 ----
 
