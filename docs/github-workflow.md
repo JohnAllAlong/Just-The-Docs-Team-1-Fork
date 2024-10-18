@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Team Git Workflow
-nav_order: 3
+nav_order: 7
 ---
 
 
