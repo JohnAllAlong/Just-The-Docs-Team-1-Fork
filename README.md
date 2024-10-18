@@ -33,6 +33,7 @@ Marlena
 *	Stashing - Started October 16, Due October 17
 *	Tags - Started October 16, Due October 17
 *	Other Interesting/Useful Git Topics
+------------------------------------------------- 
 Conor
 *	Undoing with Git. -Started October 16, Finished October 17
 -------------------------------------------------
