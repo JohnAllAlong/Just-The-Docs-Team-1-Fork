@@ -75,6 +75,9 @@ Ken is a programmer who specializes in C# within the Unity game engine. He enjoy
 Conor is a programmer with experience in C#, specifically in the Unity game engine. 
 He loves Warhammer 40k lore and playing video games.
 
+### Marlena
+Marlena has been developing games since 2021 and mainly has experience with the game engine Unity and it's language C#.
+
 ### John
 
 John is a lifelong gamer and recent programmer who is working hard to bring his own ideas to life. When not sitting down, he enjoys going to concerts and cooking new recipes!
